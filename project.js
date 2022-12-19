@@ -99,7 +99,7 @@ let project_details = [
     "data_base": "local storage",
     "banner":"Images/work3.png",
     "deployed": "https://preeminent-marzipan-04585e.netlify.app",
-    "gitlink": " https://github.com/hustler-abhi/busy-motion-6100"}
+    "gitlink": ""}
 ];
 
 
