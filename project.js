@@ -62,6 +62,14 @@ tech_stacks.forEach(tech=>{
 })
 
 let project_details = [
+  {"project_name": "E-Commerce-API",
+    "details": "E-commerce is an application which is used by admin and their Customer for online shopping This application will help Customer to buy the products and view order details. Customer can register themselves and login. Add product to the cart and purchase it .",
+    "tech_stack":"JAVA,SPRINGBOOT,SQL,LOMBOOK,SWAGGER",
+    "data_base": "MYSQL",
+    "banner":"Images/e-diagram.jpg",
+    "deployed": "https://drive.google.com/file/d/178LwA9xvuGv_jVtqfNVNw_-4K1bQ6JQ8/view?usp=sharing",
+    "gitlink": "https://github.com/hustler-abhi/E-Commerce-API"},
+
     {"project_name": "Urbancompany Clone",
     "details": "Urban Company provides a platform that allows skilled and experienced professionals to connect with users looking for specific services.",
     "tech_stack":"HTML, CSS, JavaScript, github",
